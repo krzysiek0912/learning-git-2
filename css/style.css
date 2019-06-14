@@ -5,7 +5,11 @@
   margin: 0;
 }
 body {
+<<<<<<< HEAD
   text-align: left;
+=======
+  text-align: right;
+>>>>>>> conflict2
   padding: 40px;
   font-family: "Open Sans", sans-serif;
 }
